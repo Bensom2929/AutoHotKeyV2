@@ -1,0 +1,15 @@
+# AutoHotkey specific
+*.exe
+*.ahk.bak
+*.ahk.tmp
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# IDE specific
+.vscode/
+.idea/
+
+# Logs
+*.log 
