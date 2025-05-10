@@ -10,6 +10,7 @@ desktop.ini
 # IDE specific
 .vscode/
 .idea/
+.cursor/
 
 # Logs
 *.log 
